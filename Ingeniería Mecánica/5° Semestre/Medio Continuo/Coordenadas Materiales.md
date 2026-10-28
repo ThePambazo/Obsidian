@@ -1,0 +1,4 @@
+Para el análisis de [[Deformación]] es necesario establecer una referencia. Para un sistema de coordenadas cartesianas, la referencia es el origen, es decir, el punto $O=(0,0,0)$, sin embargo, al analizar la deformación de un cuerpo nuestra referencia cambia al estado inicial del mismo, es decir el cuerpo SIN deformación en el tiempo igual a cero $(t=0)$. 
+
+Para dicho análisis utilizamos las coordenadas materiales del cuerpo, estas son las coordenadas del **vector de posición** de cada punto del cuerpo sin deformación, en el tiempo cero.
+$$ \vec{X}=X_A\vec{I_A}=X_1 \vec{I_1}+X_2\vec{I_2}+X_3\vec{I_3}  $$

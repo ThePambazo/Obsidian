@@ -1,0 +1,1 @@
+Es una unidad de medición para la energía. 

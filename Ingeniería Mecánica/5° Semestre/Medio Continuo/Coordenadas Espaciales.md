@@ -1,0 +1,1 @@
+Las coordenadas espaciales son aquellas utilizadas para definir un **punto** de un cuerpo deformado, partiendo de las [[Coordenadas Materiales]] describen la posición exacta de n punto del cuerpo en función del tiempo 

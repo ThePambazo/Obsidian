@@ -1,0 +1,11 @@
+1.  [[Esfuerzo]]
+	1. [[Esfuerzo Normal (Carga Axial)]]
+		1. [[Carga Axial Centrada]]
+		2. [[Carga Axial Excéntrica]]
+	2. [[Esfuerzo Cortante]]
+	3. [[Esfuerzo de Apoyo]]
+	4. [[Esfuerzo en un plano Oblicuo bajo carga axial]]
+	5. [[Factor de Seguridad]]
+2. [[Deformación]]
+3. [[Torsión]]
+4. 

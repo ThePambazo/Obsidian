@@ -1,0 +1,1 @@
+Aquel a partir del cual se genera una deformación  plástica  en la curva esfuerzo deformación es el punto  de inflexión  entre la región  plástica y elástica  

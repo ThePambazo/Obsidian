@@ -1,0 +1,1 @@
+SCADA, DCS. instrumentación Industrial, MES, ERP, PID

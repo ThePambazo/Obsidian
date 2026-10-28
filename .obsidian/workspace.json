@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-27.md",
+                "file": "Fresado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-27"
+              "title": "Fresado"
             }
           }
         ]
@@ -167,17 +167,24 @@
       "bases:Crear nueva base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "64cb94e83129909d",
   "lastOpenFiles": [
-    "Sin título 2.canvas",
-    "2026-10-27.md",
-    "Sin título 1.canvas",
+    "GUERRERO.md",
     "Sin título.canvas",
+    "IOT/Plataformas IoT -Servicios Cloud.md",
+    "IOT/Procesos de Certificación.md",
+    "IOT/Redes de Comunicación.md",
     "IOT/Sin título.base",
+    "IOT/Zigbee.md",
+    "IOT/Topología - Arquitectura.md",
     "IOT/LOSANT.md",
+    "2026-10-27.md",
+    "Sin título 2.canvas",
+    "Sin título 1.canvas",
     "z-Anexos/Pasted image 20261027002751.png",
     "z-Anexos/Pasted image 20261027002705.png",
     "z-Anexos/Pasted image 20261027002548.png",
@@ -186,10 +193,8 @@
     "z-Anexos/Pasted image 20261026204646.png",
     "z-Anexos/Pasted image 20261026204224.png",
     "Servicio Social/Arduino Nicla Sense ME.md",
-    "IOT/Redes de Comunicación.md",
     "Servicio Social",
     "z-Anexos/Pasted image 20261008151233.png",
-    "IOT/Plataformas IoT -Servicios Cloud.md",
     "z-Anexos/Pasted image 20261008150920.png",
     "z-Anexos/Pasted image 20261008150250.png",
     "IOT/Certificación SigFox.md",
@@ -198,11 +203,8 @@
     "Busqueda de Empleo/Páginas de Postulación.md",
     "Busqueda de Empleo/Inicio.md",
     "Busqueda de Empleo/Control.md",
-    "IOT/Topología - Arquitectura.md",
     "IOT/Cadena de Valor IoT.md",
-    "IOT/Zigbee.md",
     "IOT/IoT.md",
-    "IOT/Procesos de Certificación.md",
     "IOT/Certificación CSA.md",
     "Busqueda de Empleo/contraseñas.md",
     "Busqueda de Empleo/Cinemática del cuerpo Rígido.md",
@@ -211,7 +213,6 @@
     "Ingeniería Mecánica/9° Semestre/Plantas Termoeléctricas y de Cogeneración/Sistemas de emergencia.md",
     "Ingeniería Mecánica/9° Semestre/Plantas Termoeléctricas y de Cogeneración/Proceso de Combustión.md",
     "Ingeniería Mecánica/9° Semestre/Plantas Termoeléctricas y de Cogeneración/Combustibles para Plantas Termoeéctricas.md",
-    "Ingeniería Mecánica/9° Semestre/Plantas Termoeléctricas y de Cogeneración/Cogeneración.md",
     "z-Anexos/Mét Vect p.pdf",
     "z-Anexos/Cap 16.pdf",
     "Automatización Industrial",

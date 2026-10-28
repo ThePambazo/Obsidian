@@ -35,3 +35,9 @@ they present their two mayor resources: applications and Dashboards
 Ways to save Data
 - Data Archiving
 - Workflow data nodes
+
+
+## Devices 
+### Attributes
+Time Serias Data 
+MQTT

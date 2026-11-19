@@ -11,3 +11,10 @@ Fecha de inicio: 12 de
 | 5      | 9-11-2026  | 20    |
 | 6      | 16-11-2026 | 10    |
 Debo 3 días de 5 horas cada uno, correspondiente a dos puentes y una falta (Bárbara)
+
+Prioridades
+
+1. Nicla
+2. Espisensor
+3. sensores analogos
+4. Ptoyecto extrusora

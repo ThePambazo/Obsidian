@@ -10,3 +10,4 @@ Fecha de inicio: 12 de
 | 4      | 2-11-2026  | 15    |
 | 5      | 9-11-2026  | 20    |
 | 6      | 16-11-2026 | 10    |
+Debo 3 días de 5 horas cada uno, correspondiente a dos puentes y una falta (Bárbara)

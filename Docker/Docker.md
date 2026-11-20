@@ -3,8 +3,15 @@ Compose es una herramienta que corre dos contenedores al mismo tiempo. Puedes en
 
 `git clone https://github.com/docker/multi-container-app`
 
-el archivo compose.yaml le dice a Docker las instrucciones sobre cómo correr la aplicación. Ejemplo:
+el archivo compose.yaml le dice a Docker las instrucciones sobre cómo correr la aplicación. 
 
+
+Para ponerlo en marcha correr el siguiente comando:
+
+`docker compose up -d`
+
+
+Ejemplo:
 
 ``` python
 # Comments are provided throughout this file to help you get started.
@@ -81,6 +88,8 @@ services:
 
 #volumes:
 
-  #database:
-  ```
+  #database: ```
   
+  
+  
+  s

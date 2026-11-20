@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bafc0aed80047c95",
+  "active": "f4c3bb3c7ad6104d",
   "lastOpenFiles": [
+    "file:C:/Users/FDavilaA/Documents/Docker/welcome-to-docker/README.md",
     "Servicio Social/Reportes/Avance de horas.md",
     "Servicio Social/Reportes/1Reporte_de_actividades_FADA.pdf",
     "Ingeniería Mecánica/Fresado.md",

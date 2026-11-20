@@ -1,3 +1,7 @@
+
+## Montar una imagen
+Lo primero es montar la imagen utilizando el comando docker-compose up -d
+
 ## Compose
 Compose es una herramienta que corre dos contenedores al mismo tiempo. Puedes encontrar el ejemplo en clonando el siguiente repositorio:
 
@@ -9,6 +13,13 @@ el archivo compose.yaml le dice a Docker las instrucciones sobre cómo correr la
 Para ponerlo en marcha correr el siguiente comando:
 
 `docker compose up -d`
+docker compose watch
+
+
+
+## Volúmenes 
+Guarda información incluse despues de un contenedor es eliminado 
+Un volumen es una locación en el filesystem local de mi pc, manejado por Docker.
 
 
 Ejemplo:
@@ -92,4 +103,3 @@ services:
   
   
   
-  s

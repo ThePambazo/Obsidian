@@ -15,8 +15,19 @@ Para ponerlo en marcha correr el siguiente comando:
 `docker compose up -d`
 docker compose watch
 
+![[Pasted image 20261123161922.png]]
+Adminer es otro contenedor, extensión de docker para la administración y visualización de bases de datos
 
-
+## Entorno virtual de Python
+Se crea un entorno virtual de python con la intención de aislar las dependencias que se instalen en una carpeta dentro del sistema llamada "venv" y no en el python global.
+python -m venv venv
+### Activación del entorno virtual
+- **Windows (PowerShell):** `.\venv\Scripts\Activate.ps1`
+    
+- **Windows (CMD):** `.\venv\Scripts\activate.bat`
+    
+- **Mac / Linux:** `source venv/bin/activate`
+Una vez activo el entorno virtual (la ruta del cmd empieza con un paréntesis encerrando el venv) se procede a la instalación 
 ## Volúmenes 
 Guarda información incluse despues de un contenedor es eliminado 
 Un volumen es una locación en el filesystem local de mi pc, manejado por Docker.

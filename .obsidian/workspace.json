@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker.md",
+                "file": "Busqueda de Empleo/Páginas de Postulación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Páginas de Postulación"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "f4c3bb3c7ad6104d",
   "lastOpenFiles": [
+    "Docker/Docker.md",
     "z-Anexos/Pasted image 20261123161922.png",
     "file:C:/Users/FDavilaA/Documents/Docker/welcome-to-docker/README.md",
     "Servicio Social/Reportes/Avance de horas.md",
@@ -204,7 +205,6 @@
     "Servicio Social/Sin título.md",
     "Servicio Social/Nicla",
     "Servicio Social/Reportes",
-    "Docker/Docker.md",
     "Servicio Social/Nicla/Arduino Nicla Sense ME.md",
     "Docker",
     "Servicio Social/Nicla/Qué es una g.md",
@@ -230,7 +230,6 @@
     "Servicio Social",
     "z-Anexos/Pasted image 20261008151233.png",
     "z-Anexos/Pasted image 20261008150920.png",
-    "z-Anexos/Pasted image 20261008150250.png",
     "IOT/Certificación SigFox.md",
     "IOT/Definiciones IoT.md",
     "IOT/Hardware.md",
